@@ -1,2 +1,20 @@
-# cat_-_dog_classifier
-The code is a Jupyter notebook that demonstrates how to use convolutional neural networks to classify images of cats and dogs using Keras. It includes code for loading and preprocessing the data, building and training the model, and classifying new images. The purpose is to provide an example of CNN image classification using Keras.
+# Cat and Dog Classifier
+
+This Jupyter notebook contains a Python script that uses convolutional neural networks (CNNs) to classify images of cats and dogs. The script uses the Keras library to create a CNN model that is trained on a dataset of images of cats and dogs, and then evaluated on a separate test set. The trained model can then be used to classify new images of cats and dogs.
+
+## Getting Started
+
+To use this notebook, you will need to have Python and the following libraries installed:
+
+* TensorFlow
+* Keras
+* NumPy
+* Matplotlib
+
+You can install these libraries using pip.
+
+Once you have the libraries installed, you can open this Jupyter notebook and run the Python script. You will need to provide the path to the training and test sets of images of cats and dogs in the script. Once you have trained the model, you can use it to classify new images of cats and dogs by running the last code cell in the script and providing the path to the new image.
+
+## Results
+
+The CNN model achieved an accuracy of 81% on the test set of images. This indicates that the model is able to distinguish between images of cats and dogs with a high degree of accuracy.
