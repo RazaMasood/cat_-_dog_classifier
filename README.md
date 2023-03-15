@@ -17,4 +17,7 @@ Once you have the libraries installed, you can open this Jupyter notebook and ru
 
 ## Results
 
-The CNN model achieved an accuracy of 81% on the test set of images. This indicates that the model is able to distinguish between images of cats and dogs with a high degree of accuracy.
+The CNN model achieved an accuracy of 80.25% on the test set of images. This indicates that the model is able to distinguish between images of cats and dogs with a high degree of accuracy.
+
+### Contributing
+Contributions to this project are welcome! If you find a bug or have a suggestion for a new feature, please open an issue on GitHub.
